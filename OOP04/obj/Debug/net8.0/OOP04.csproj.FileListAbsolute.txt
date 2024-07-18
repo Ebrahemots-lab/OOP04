@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\bin\Debug\net8.0\OOP04.exe
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\bin\Debug\net8.0\OOP04.deps.json
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\bin\Debug\net8.0\OOP04.runtimeconfig.json
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\bin\Debug\net8.0\OOP04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\bin\Debug\net8.0\OOP04.pdb
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\refint\OOP04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.pdb
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\OOP04.genruntimeconfig.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\OOP04\obj\Debug\net8.0\ref\OOP04.dll

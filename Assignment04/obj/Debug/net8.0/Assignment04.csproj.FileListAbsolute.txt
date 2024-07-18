@@ -1,0 +1,14 @@
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\bin\Debug\net8.0\Assignment04.exe
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\bin\Debug\net8.0\Assignment04.deps.json
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\bin\Debug\net8.0\Assignment04.runtimeconfig.json
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\bin\Debug\net8.0\Assignment04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\bin\Debug\net8.0\Assignment04.pdb
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfoInputs.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfo.cs
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\refint\Assignment04.dll
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.pdb
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\Assignment04.genruntimeconfig.cache
+D:\Diploma\C#\OOP\Route\Session04\OOP04Demo\Assignment04\obj\Debug\net8.0\ref\Assignment04.dll
